@@ -1,0 +1,38 @@
+header {
+text-align: center;
+padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+.athletes-searched {
+    border: 2px solid black;
+    height: 100px;
+    width: auto;
+    padding: 5px;
+    margin: 0px 0px 20px 0px;
+}
+#search-btn {
+    float: right;
+}
+
+#athlete-search {
+    float: right;
+}
+
+
+
+.athletes {
+    background-color: navy;
+    color: white;
+    padding: 3px;
+}
+
+.gif-images {
+width: auto;
+border: 2px solid black;
+height: 500px;
+padding: 20px;
+}
+
