@@ -1,4 +1,4 @@
-var athletes = ["Tom Brady", "Von Miller", "Kevin Durant", "Tiger Woods"];
+var athletes = ["Tom Brady", "Von Miller", "Kevin Durant", "Tiger Woods", "Paul Pierce", "Brad Marchand"];
 
 function clearGifs () {
 

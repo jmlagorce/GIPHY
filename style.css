@@ -1,7 +1,7 @@
 .body {
    background-color: darkgrey;
    color: maroon;
-   font-family: 'Indie Flower', cursive;
+   font-family: 'Black Ops One', cursive;
     
 }
 
@@ -12,7 +12,7 @@ padding: 20px;
 font-size: xx-large;
 background-color: white;
 color: maroon;
-text-decoration: underline;
+
 border: maroon 5px solid;
 margin: 10px 10px 20px 10px;
 }
@@ -53,19 +53,11 @@ h2 {
 #gif-images {
 width: auto;
 border: 5px solid maroon;
-height: 1800px;
+height: 2500px;
 padding: 10px;
 margin: 10px 10px 20px 10px;
 background-color: white;
 color: maroon;
-}
-
-.athlete-gif {
-    
-    height: 300px;
-    width: 300px;
-    
-   
 }
 
 .athlete-div {
@@ -73,8 +65,18 @@ color: maroon;
     padding: 10px;
     border: 5px maroon solid;
     margin: 30px;
-    background-color: darkgrey
+    background-color: darkgrey;
 }
+
+.athlete-gif {
+    clear: both;
+    height: 300px;
+    width: 300px;
+    
+   
+}
+
+
 
 
 
